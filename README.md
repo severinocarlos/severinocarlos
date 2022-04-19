@@ -1,7 +1,7 @@
 <p align="center">
-  <b>Olá, me chamo Severino</b>
+  <b>Opa, me chamo Severino!!</b>
 </p>
-
+<p>Sou graduando em Ciência da Computação na Universidade Federal de Pernambuco (UFPE). </p>
 <div>
   <a href="https://github.com/severinocarlos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=severinocarlos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
