@@ -1,7 +1,7 @@
 <p align="center">
   <b>Hi, my name is Severino!!</b>
 </p>
-<p>I am currently studying Computer Science at the CIn at the Federal University of Pernambuco </p>
+<p>I am currently studying Computer Science at the Centro de Informática (CIn) at the Universidade Federal de Pernambuco</p>
 <div>
   <a href="https://github.com/severinocarlos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=severinocarlos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
